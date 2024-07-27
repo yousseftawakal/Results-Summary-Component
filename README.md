@@ -70,7 +70,6 @@ You can use this project as a starting point for your own results summary compon
 ## Acknowledgements
 
 - [Frontend Mentor](https://www.frontendmentor.io) for providing the challenge
-- Any tutorials, articles, or other resources you found helpful
 
 
 ## Contact
