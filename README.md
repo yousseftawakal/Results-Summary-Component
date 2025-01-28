@@ -30,7 +30,7 @@ This repository contains my solution to the [Results Summary Component Challenge
 
 ## Demo
 
-Check out the live demo of the project [here](https://pr0g-alt.github.io/Results-Summary-Component/).
+Check out the live demo of the project [here](https://yousseftawakal.github.io/Results-Summary-Component/).
 
 
 ## Installation
@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/pr0G-alt/Results-Summary-Component.git
+git clone https://github.com/yousseftawakal/Results-Summary-Component.git
 ```
 
 2. **Navigate to the project directory:**
@@ -76,5 +76,5 @@ You can use this project as a starting point for your own results summary compon
 
 Feel free to reach out to me if you have any questions or suggestions:
 
-- GitHub: [pr0G-alt](https://github.com/pr0G-alt)
+- GitHub: [pr0G-alt](https://github.com/yousseftawakal)
 - Email: pr0.G@outlook.com
